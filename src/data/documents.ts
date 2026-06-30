@@ -20,6 +20,7 @@ export const certificates: DocumentFile[] = [
     file: '/certificates/certificate-renuka-chaudhary.pdf',
     title: 'Certificate of Achievement',
     subtitle: 'Renuka Choudhary',
+    date: '2025',
   },
   {
     file: '/certificates/nptel-cpp-certificate.pdf',
