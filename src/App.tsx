@@ -200,7 +200,7 @@ function App() {
             </div>
           </div>
 
-          {/* Center - Profile Photo - FIXED */}
+          {/* Center - Profile Photo - FIXED WITH REAL VALUES */}
           <div className="order-1 lg:order-2 flex justify-center">
             <div className="profile-ring relative w-60 h-60 sm:w-72 sm:h-72 lg:w-80 lg:h-80">
               <div className="relative z-10 w-full h-full rounded-full overflow-hidden border-4 border-navy-950 shadow-2xl">
@@ -395,7 +395,7 @@ function App() {
         </div>
       </section>
 
-      {/* Resume & Certificates - FULLY VISIBLE */}
+      {/* Resume & Certificates - FULLY VISIBLE AND FUNCTIONAL */}
       <DocumentsSection />
 
       {/* Contact */}
