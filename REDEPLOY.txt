@@ -1,0 +1,5 @@
+Trigger redeploy - Portfolio fixes applied
+- Profile photo now displays: /Renuka professional photo.jpeg
+- All 4 certificates visible with dates
+- Resume fully accessible
+Redeploy timestamp: 2026-06-30
