@@ -204,11 +204,11 @@ function App() {
           <div className="order-1 lg:order-2 flex justify-center">
             <div className="profile-ring relative w-60 h-60 sm:w-72 sm:h-72 lg:w-80 lg:h-80">
               <div className="relative z-10 w-full h-full rounded-full overflow-hidden border-4 border-navy-950 shadow-2xl">
- <img
-  src="..."
-  alt="Renuka Choudhary - Professional Portrait"
-  className="..."
-/>
+                <img
+                  src="/renuka-photo.png"
+                  alt="Renuka Choudhary - Professional Portrait"
+                  className="w-full h-full object-cover"
+                />
               </div>
             </div>
           </div>
